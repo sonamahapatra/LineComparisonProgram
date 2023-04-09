@@ -11,6 +11,7 @@ namespace LineComparisonProgram
         static void Main(string[] args)
         {
             Console.WriteLine("Welcome To The Line Comparison Program");
+            LineComp.FindLine();
             Console.ReadLine();
         }
     }
