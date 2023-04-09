@@ -9,11 +9,13 @@ namespace LineComparisonProgram
     internal class Program
     {
         
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
             Console.WriteLine("Welcome To The Line Comparison Program");
-            
+            Line line = new Line(1, 2, 3, 4);
+            line.Length();
             Console.ReadLine();
+            
         }
     }
 }
