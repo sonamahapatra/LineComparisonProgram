@@ -1,0 +1,8 @@
+C:\Users\SONALI MAHAPATRA\276\LineComparisonProgram\LineComparisonProgram\bin\Debug\LineComparisonProgram.exe.config
+C:\Users\SONALI MAHAPATRA\276\LineComparisonProgram\LineComparisonProgram\bin\Debug\LineComparisonProgram.exe
+C:\Users\SONALI MAHAPATRA\276\LineComparisonProgram\LineComparisonProgram\bin\Debug\LineComparisonProgram.pdb
+C:\Users\SONALI MAHAPATRA\276\LineComparisonProgram\LineComparisonProgram\obj\Debug\LineComparisonProgram.csproj.AssemblyReference.cache
+C:\Users\SONALI MAHAPATRA\276\LineComparisonProgram\LineComparisonProgram\obj\Debug\LineComparisonProgram.csproj.SuggestedBindingRedirects.cache
+C:\Users\SONALI MAHAPATRA\276\LineComparisonProgram\LineComparisonProgram\obj\Debug\LineComparisonProgram.csproj.CoreCompileInputs.cache
+C:\Users\SONALI MAHAPATRA\276\LineComparisonProgram\LineComparisonProgram\obj\Debug\LineComparisonProgram.exe
+C:\Users\SONALI MAHAPATRA\276\LineComparisonProgram\LineComparisonProgram\obj\Debug\LineComparisonProgram.pdb
